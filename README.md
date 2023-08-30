@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning C++, HTML, CSS, JS, PHP along with XML and Kotlin
 - 💞️ I’m looking to collaborate on my relevant skills
-- 📫 How to reach me Mail me at skshivam466@gmail.com
+- 📫 Mail me at skshivam466@gmail.com
 
 <!---
 skshivam466/skshivam466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
